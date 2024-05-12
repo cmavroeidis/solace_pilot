@@ -1,0 +1,1 @@
+This is a short-term price trend forecasting algorithm for cryptocurrency assets. It uses a System Identification approach similar to that taught at McGill University by J Forbes in MECH 412: System Controls class.
